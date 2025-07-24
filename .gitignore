@@ -1,0 +1,5 @@
+*.h5
+*/saved_model_dir
+*.ipynb
+*Zone.Identifier
+convert_to_tensorflowjs/final_model
